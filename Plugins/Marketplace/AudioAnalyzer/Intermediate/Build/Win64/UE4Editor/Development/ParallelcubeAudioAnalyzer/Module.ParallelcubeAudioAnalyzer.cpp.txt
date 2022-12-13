@@ -1,0 +1,514 @@
+C:\Users\cam8439\Perforce\cam8439_ARCue4.26\CSCI715-ARCue\ARCue4.26\Plugins\Marketplace\AudioAnalyzer\Intermediate\Build\Win64\UE4Editor\Development\ParallelcubeAudioAnalyzer\Definitions.ParallelcubeAudioAnalyzer.h
+C:/Users/cam8439/Perforce/cam8439_ARCue4.26/CSCI715-ARCue/ARCue4.26/Plugins/Marketplace/AudioAnalyzer/Source/AudioAnalyzer/Private/AudioAnalyzerCapturer.cpp
+C:\Users\cam8439\Perforce\cam8439_ARCue4.26\CSCI715-ARCue\ARCue4.26\Plugins\Marketplace\AudioAnalyzer\Source\AudioAnalyzer\Public\AudioAnalyzerCapturer.h
+C:\Users\cam8439\Perforce\cam8439_ARCue4.26\CSCI715-ARCue\ARCue4.26\Plugins\Marketplace\AudioAnalyzer\Source\AudioAnalyzer\Public\AudioAnalyzerSource.h
+C:\Users\cam8439\Perforce\cam8439_ARCue4.26\CSCI715-ARCue\ARCue4.26\Plugins\Marketplace\AudioAnalyzer\Source\AudioAnalyzer\Public\AudioAnalyzerCommon.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\mutex
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\__msvc_chrono.hpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\limits
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cfloat
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cwchar
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cstdio
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\isa_availability.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\ratio
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\utility
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\system_error
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\__msvc_system_error_abi.hpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cerrno
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\stdexcept
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xstring
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\iosfwd
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xmemory
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xutility
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xcall_once.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xerrc.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\thread
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\memory
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\process.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_startup.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\math.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\vcruntime_startup.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\tuple
+C:\Users\cam8439\Perforce\cam8439_ARCue4.26\CSCI715-ARCue\ARCue4.26\Plugins\Marketplace\AudioAnalyzer\Source\AudioAnalyzer\Public\AudioAnalyzerDeviceInfo.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\string
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cctype
+C:\Users\cam8439\Perforce\cam8439_ARCue4.26\CSCI715-ARCue\ARCue4.26\Plugins\Marketplace\AudioAnalyzer\Source\AudioAnalyzer\Private\QueueBuffer.h
+C:\Users\cam8439\Perforce\cam8439_ARCue4.26\CSCI715-ARCue\ARCue4.26\Plugins\Marketplace\AudioAnalyzer\Source\Thirdparty\miniaudio\include\miniaudio.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\functional
+C:\Users\cam8439\Perforce\cam8439_ARCue4.26\CSCI715-ARCue\ARCue4.26\Plugins\Marketplace\AudioAnalyzer\Source\Thirdparty\miniaudio\include\miniaudio.h
+C:/Users/cam8439/Perforce/cam8439_ARCue4.26/CSCI715-ARCue/ARCue4.26/Plugins/Marketplace/AudioAnalyzer/Source/AudioAnalyzer/Private/AudioAnalyzerCommon.cpp
+C:/Users/cam8439/Perforce/cam8439_ARCue4.26/CSCI715-ARCue/ARCue4.26/Plugins/Marketplace/AudioAnalyzer/Source/AudioAnalyzer/Private/AudioAnalyzerCore.cpp
+C:\Users\cam8439\Perforce\cam8439_ARCue4.26\CSCI715-ARCue\ARCue4.26\Plugins\Marketplace\AudioAnalyzer\Source\AudioAnalyzer\Public\AudioAnalyzerCore.h
+C:\Users\cam8439\Perforce\cam8439_ARCue4.26\CSCI715-ARCue\ARCue4.26\Plugins\Marketplace\AudioAnalyzer\Source\AudioAnalyzer\Private\HistoryManager.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\deque
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\vector
+C:\Users\cam8439\Perforce\cam8439_ARCue4.26\CSCI715-ARCue\ARCue4.26\Plugins\Marketplace\AudioAnalyzer\Source\AudioAnalyzer\Private\StreamHeap.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\unordered_map
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xhash
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cmath
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\list
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xbit_ops.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\algorithm
+C:\Users\cam8439\Perforce\cam8439_ARCue4.26\CSCI715-ARCue\ARCue4.26\Plugins\Marketplace\AudioAnalyzer\Source\AudioAnalyzer\Thirdparty\KissFFT_130\tools\kiss_fftr.h
+C:\Users\cam8439\Perforce\cam8439_ARCue4.26\CSCI715-ARCue\ARCue4.26\Plugins\Marketplace\AudioAnalyzer\Source\AudioAnalyzer\Thirdparty\KissFFT_130\kiss_fft.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\math.h
+C:\Users\cam8439\Perforce\cam8439_ARCue4.26\CSCI715-ARCue\ARCue4.26\Plugins\Marketplace\AudioAnalyzer\Source\AudioAnalyzer\Thirdparty\KissFFT_130\tools\kiss_fftnd.h
+C:/Users/cam8439/Perforce/cam8439_ARCue4.26/CSCI715-ARCue/ARCue4.26/Plugins/Marketplace/AudioAnalyzer/Source/AudioAnalyzer/Private/AudioAnalyzerDecoder.cpp
+C:\Users\cam8439\Perforce\cam8439_ARCue4.26\CSCI715-ARCue\ARCue4.26\Plugins\Marketplace\AudioAnalyzer\Source\AudioAnalyzer\Public\AudioAnalyzerDecoder.h
+C:\Users\cam8439\Perforce\cam8439_ARCue4.26\CSCI715-ARCue\ARCue4.26\Plugins\Marketplace\AudioAnalyzer\Source\AudioAnalyzerTaglib\Classes\AudioAnalyzerTaglibManager.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\sstream
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\istream
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\ostream
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\ios
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xlocnum
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\iterator
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\streambuf
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xiosbase
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\share.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xlocale
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xfacet
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xlocinfo
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xlocinfo.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\clocale
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\locale.h
+C:\Users\cam8439\Perforce\cam8439_ARCue4.26\CSCI715-ARCue\ARCue4.26\Plugins\Marketplace\AudioAnalyzer\Source\Thirdparty\miniaudio\include\miniaudio.h
+C:\Users\cam8439\Perforce\cam8439_ARCue4.26\CSCI715-ARCue\ARCue4.26\Plugins\Marketplace\AudioAnalyzer\Source\AudioAnalyzer\Private\AudioAnalyzerConfig.h
+C:\Users\cam8439\Perforce\cam8439_ARCue4.26\CSCI715-ARCue\ARCue4.26\Plugins\Marketplace\AudioAnalyzer\Source\Thirdparty\miniaudio\include\dr_wav.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\assert.h
+C:\Users\cam8439\Perforce\cam8439_ARCue4.26\CSCI715-ARCue\ARCue4.26\Plugins\Marketplace\AudioAnalyzer\Source\Thirdparty\miniaudio\include\dr_mp3.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\assert.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\math.h
+C:\Users\cam8439\Perforce\cam8439_ARCue4.26\CSCI715-ARCue\ARCue4.26\Plugins\Marketplace\AudioAnalyzer\Source\Thirdparty\miniaudio\include\dr_flac.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\assert.h
+C:\Users\cam8439\Perforce\cam8439_ARCue4.26\CSCI715-ARCue\ARCue4.26\Plugins\Marketplace\AudioAnalyzer\Source\AudioAnalyzer\Thirdparty\stb\stb_vorbis.c
+C:\Users\cam8439\Perforce\cam8439_ARCue4.26\CSCI715-ARCue\ARCue4.26\Plugins\Marketplace\AudioAnalyzer\Source\Thirdparty\miniaudio\include\miniaudio.h
+C:/Users/cam8439/Perforce/cam8439_ARCue4.26/CSCI715-ARCue/ARCue4.26/Plugins/Marketplace/AudioAnalyzer/Source/AudioAnalyzer/Private/AudioAnalyzerDeviceInfo.cpp
+C:/Users/cam8439/Perforce/cam8439_ARCue4.26/CSCI715-ARCue/ARCue4.26/Plugins/Marketplace/AudioAnalyzer/Source/AudioAnalyzer/Private/AudioAnalyzerExtractor.cpp
+C:\Users\cam8439\Perforce\cam8439_ARCue4.26\CSCI715-ARCue\ARCue4.26\Plugins\Marketplace\AudioAnalyzer\Source\AudioAnalyzer\Public\AudioAnalyzerExtractor.h
+C:\Users\cam8439\Perforce\cam8439_ARCue4.26\CSCI715-ARCue\ARCue4.26\Plugins\Marketplace\AudioAnalyzer\Source\AudioAnalyzer\Public\AudioAnalyzerSoundWave.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Sound/SoundWaveProcedural.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SoundWaveProcedural.generated.h
+C:\Users\cam8439\Perforce\cam8439_ARCue4.26\CSCI715-ARCue\ARCue4.26\Plugins\Marketplace\AudioAnalyzer\Intermediate\Build\Win64\UE4Editor\Inc\ParallelcubeAudioAnalyzer\AudioAnalyzerSoundWave.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Components/AudioComponent.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Sound/QuartzSubscription.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\AudioMixer\Public\Quartz/AudioMixerClockHandle.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\AudioMixer\Public\Quartz/QuartzSubsystem.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AudioMixer\QuartzSubsystem.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\AudioMixer\Public\Quartz/QuartzMetronome.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AudioMixer\AudioMixerClockHandle.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\AudioMixer\Public\Quartz/AudioMixerQuantizedCommands.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\AudioMixer\Public\Quartz\AudioMixerClock.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AudioComponent.generated.h
+C:/Users/cam8439/Perforce/cam8439_ARCue4.26/CSCI715-ARCue/ARCue4.26/Plugins/Marketplace/AudioAnalyzer/Source/AudioAnalyzer/Private/AudioAnalyzerLoopback.cpp
+C:\Users\cam8439\Perforce\cam8439_ARCue4.26\CSCI715-ARCue\ARCue4.26\Plugins\Marketplace\AudioAnalyzer\Source\AudioAnalyzer\Public\AudioAnalyzerLoopback.h
+C:\Users\cam8439\Perforce\cam8439_ARCue4.26\CSCI715-ARCue\ARCue4.26\Plugins\Marketplace\AudioAnalyzer\Source\Thirdparty\miniaudio\include\miniaudio.h
+C:/Users/cam8439/Perforce/cam8439_ARCue4.26/CSCI715-ARCue/ARCue4.26/Plugins/Marketplace/AudioAnalyzer/Source/AudioAnalyzer/Private/AudioAnalyzerManager.cpp
+C:\Users\cam8439\Perforce\cam8439_ARCue4.26\CSCI715-ARCue\ARCue4.26\Plugins\Marketplace\AudioAnalyzer\Source\AudioAnalyzer\Classes\AudioAnalyzerManager.h
+C:\Users\cam8439\Perforce\cam8439_ARCue4.26\CSCI715-ARCue\ARCue4.26\Plugins\Marketplace\AudioAnalyzer\Source\AudioAnalyzer\Public\AudioAnalyzerPlayer.h
+C:\Users\cam8439\Perforce\cam8439_ARCue4.26\CSCI715-ARCue\ARCue4.26\Plugins\Marketplace\AudioAnalyzer\Source\AudioAnalyzer\Public\AudioAnalyzerPlayerUnit.h
+C:\Users\cam8439\Perforce\cam8439_ARCue4.26\CSCI715-ARCue\ARCue4.26\Plugins\Marketplace\AudioAnalyzer\Source\AudioAnalyzer\Public\AudioAnalyzerStream.h
+C:\Users\cam8439\Perforce\cam8439_ARCue4.26\CSCI715-ARCue\ARCue4.26\Plugins\Marketplace\AudioAnalyzer\Source\Thirdparty\miniaudio\include\miniaudio.h
+C:\Users\cam8439\Perforce\cam8439_ARCue4.26\CSCI715-ARCue\ARCue4.26\Plugins\Marketplace\AudioAnalyzer\Source\AudioAnalyzer\Public\AudioAnalyzerOVR.h
+C:\Users\cam8439\Perforce\cam8439_ARCue4.26\CSCI715-ARCue\ARCue4.26\Plugins\Marketplace\AudioAnalyzer\Source\Thirdparty\miniaudio\include\miniaudio.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/NoExportTypes.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyAccessUtil.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Math/UnitConversion.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Math/UnitConversion.inl
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Internationalization/PolyglotTextData.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\AssetRegistry/ARFilter.h
+C:\Users\cam8439\Perforce\cam8439_ARCue4.26\CSCI715-ARCue\ARCue4.26\Plugins\Marketplace\AudioAnalyzer\Intermediate\Build\Win64\UE4Editor\Inc\ParallelcubeAudioAnalyzer\AudioAnalyzerManager.generated.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\math.h
+C:/Users/cam8439/Perforce/cam8439_ARCue4.26/CSCI715-ARCue/ARCue4.26/Plugins/Marketplace/AudioAnalyzer/Source/AudioAnalyzer/Private/AudioAnalyzerOVR.cpp
+C:\Users\cam8439\Perforce\cam8439_ARCue4.26\CSCI715-ARCue\ARCue4.26\Plugins\Marketplace\AudioAnalyzer\Source\Thirdparty\miniaudio\include\miniaudio.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty/Oculus/LibOVRPlatform/LibOVRPlatform/include/OVR_Platform.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\stdbool.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_Types.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_KeyValuePairType.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_Platform_Defs.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_MatchmakingCriterionImportance.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_VoipSampleRate.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_MediaContentType.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_MessageType.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_Voip_LowLevel.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_VoipEncoder.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_VoipDecoder.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_Microphone.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_PlatformVersion.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_AbuseReportRecording.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_AchievementDefinition.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_AchievementType.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_AchievementDefinitionArray.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_AchievementProgress.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_AchievementProgressArray.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_AchievementUpdate.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_ApplicationVersion.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_AssetDetails.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_LanguagePackInfo.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_AssetDetailsArray.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_AssetFileDeleteResult.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_AssetFileDownloadCancelResult.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_AssetFileDownloadResult.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_AssetFileDownloadUpdate.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_CalApplicationFinalized.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_CalApplicationProposed.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_CalApplicationSuggestion.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_CalApplicationSuggestionArray.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_CloudStorageConflictMetadata.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_CloudStorageMetadata.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_CloudStorage.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_CloudStorageDataStatus.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_CloudStorageData.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_CloudStorageMetadataArray.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_CloudStorageUpdateResponse.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_CloudStorageUpdateStatus.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_DataStore.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_Error.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_HttpTransferUpdate.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_InstalledApplication.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_InstalledApplicationArray.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_LaunchBlockFlowResult.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_LaunchDetails.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_LaunchType.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_UserArray.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_User.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_UserPresenceStatus.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_LaunchFriendRequestFlowResult.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_LaunchReportFlowResult.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_LaunchUnblockFlowResult.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_LeaderboardEntry.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_LeaderboardEntryArray.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_LeaderboardUpdateStatus.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_LinkedAccount.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_ServiceProvider.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_LinkedAccountArray.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_LivestreamingApplicationStatus.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_LivestreamingStartResult.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_LivestreamingStartStatus.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_LivestreamingStatus.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_LivestreamingVideoStats.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_MatchmakingAdminSnapshot.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_MatchmakingAdminSnapshotCandidateArray.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_MatchmakingAdminSnapshotCandidate.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_MatchmakingBrowseResult.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_MatchmakingEnqueueResult.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_MatchmakingRoomArray.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_MatchmakingRoom.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_Room.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_MatchmakingEnqueuedUserArray.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_MatchmakingEnqueuedUser.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_RoomJoinability.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_RoomJoinPolicy.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_RoomType.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_TeamArray.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_Team.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_MatchmakingEnqueueResultAndRoom.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_MatchmakingStats.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_Message.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_NetworkingPeer.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_PeerConnectionState.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_OrgScopedID.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_Party.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_PartyID.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_PartyUpdateNotification.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_PartyUpdateAction.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_PidArray.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_Pid.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_PingResult.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_PlatformInitialize.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_PlatformInitializeResult.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_ProductArray.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_Product.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_Purchase.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_PurchaseArray.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_RoomArray.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_RoomInviteNotification.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_RoomInviteNotificationArray.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_SdkAccountArray.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_SdkAccount.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_SdkAccountType.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_ShareMediaResult.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_ShareMediaStatus.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_SystemPermission.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_PermissionGrantStatus.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_SystemVoipState.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_SystemVoipStatus.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_VoipMuteState.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_UserAndRoomArray.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_UserAndRoom.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_UserProof.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_UserReportID.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_Packet.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_SendPolicy.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_Requests_Achievements.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_Requests_Application.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_ApplicationOptions.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_Requests_ApplicationLifecycle.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_Requests_AssetFile.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_Requests_CloudStorage.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_Requests_CloudStorage2.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_Requests_Entitlement.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_Requests_IAP.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_Requests_LanguagePack.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_Requests_Leaderboard.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_LeaderboardFilterType.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_LeaderboardStartAt.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_Requests_Livestreaming.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_Requests_Matchmaking.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_MatchmakingOptions.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_MatchmakingStatApproach.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_Requests_Media.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_Requests_Notification.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_Requests_Party.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_Requests_RichPresence.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_RichPresenceOptions.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_RichPresenceExtraContext.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_Requests_Room.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_RoomMembershipLockStatus.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_RoomOptions.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_TimeWindow.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_UserOrdering.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_Requests_User.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_AbuseReportOptions.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_AbuseReportType.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_UserOptions.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_Requests_Voip.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_VoipOptions.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_VoipBitrate.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_VoipDtxState.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_Functions_ApplicationLifecycle.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_Functions_Networking.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\ThirdParty\Oculus\LibOVRPlatform\LibOVRPlatform\include\OVR_Functions_Voip.h
+C:/Users/cam8439/Perforce/cam8439_ARCue4.26/CSCI715-ARCue/ARCue4.26/Plugins/Marketplace/AudioAnalyzer/Source/AudioAnalyzer/Private/AudioAnalyzerPlayer.cpp
+C:\Users\cam8439\Perforce\cam8439_ARCue4.26\CSCI715-ARCue\ARCue4.26\Plugins\Marketplace\AudioAnalyzer\Source\AudioAnalyzer\Public\AudioAnalyzerPlayerUnitFile.h
+C:\Users\cam8439\Perforce\cam8439_ARCue4.26\CSCI715-ARCue\ARCue4.26\Plugins\Marketplace\AudioAnalyzer\Source\Thirdparty\miniaudio\include\miniaudio.h
+C:\Users\cam8439\Perforce\cam8439_ARCue4.26\CSCI715-ARCue\ARCue4.26\Plugins\Marketplace\AudioAnalyzer\Source\Thirdparty\miniaudio\include\miniaudio.h
+C:/Users/cam8439/Perforce/cam8439_ARCue4.26/CSCI715-ARCue/ARCue4.26/Plugins/Marketplace/AudioAnalyzer/Source/AudioAnalyzer/Private/AudioAnalyzerPlayerUnitFile.cpp
+C:\Users\cam8439\Perforce\cam8439_ARCue4.26\CSCI715-ARCue\ARCue4.26\Plugins\Marketplace\AudioAnalyzer\Source\Thirdparty\miniaudio\include\miniaudio.h
+C:/Users/cam8439/Perforce/cam8439_ARCue4.26/CSCI715-ARCue/ARCue4.26/Plugins/Marketplace/AudioAnalyzer/Source/AudioAnalyzer/Private/AudioAnalyzerPlugin.cpp
+C:\Users\cam8439\Perforce\cam8439_ARCue4.26\CSCI715-ARCue\ARCue4.26\Plugins\Marketplace\AudioAnalyzer\Source\AudioAnalyzer\Public\AudioAnalyzerPlugin.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Projects\Public\Interfaces/IPluginManager.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Projects\Public\PluginDescriptor.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Projects\Public\ModuleDescriptor.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Projects\Public\CustomBuildSteps.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Projects\Public\LocalizationDescriptor.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Projects\Public\PluginReferenceDescriptor.h
+C:\Users\cam8439\Perforce\cam8439_ARCue4.26\CSCI715-ARCue\ARCue4.26\Plugins\Marketplace\AudioAnalyzer\Source\AudioAnalyzer\Thirdparty\stb\stb_vorbis.c
+C:\Users\cam8439\Perforce\cam8439_ARCue4.26\CSCI715-ARCue\ARCue4.26\Plugins\Marketplace\AudioAnalyzer\Source\Thirdparty\miniaudio\include\miniaudio.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformTypes.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Windows/WindowsHWrapper.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Windows/PreWindowsApi.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Windows/MinWindows.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\Windows.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\sdkddkver.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\excpt.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\windef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\minwindef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winnt.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\kernelspecs.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\basetsd.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\guiddef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\apiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\ktmtypes.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\apisetcconv.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\minwinbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\apiquery2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\processenv.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\fileapifromapp.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\fileapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\debugapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\utilapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\handleapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\errhandlingapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\fibersapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\namedpipeapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\profileapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\heapapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\ioapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\synchapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\interlockedapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\processthreadsapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\sysinfoapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\memoryapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\enclaveapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\threadpoollegacyapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\threadpoolapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\jobapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\jobapi2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\wow64apiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\libloaderapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\securitybaseapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\namespaceapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\systemtopologyapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\processtopologyapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\securityappcontainer.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\realtimeapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\winerror.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\timezoneapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\wingdi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winuser.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\tvout.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winnls.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\datetimeapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\stringapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winnls.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\wincon.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\wincontypes.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\consoleapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\consoleapi2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\consoleapi3.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winver.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\verrsrc.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winreg.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\reason.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winnetwk.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\wnnc.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\stralign.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\imm.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\ime_cmodes.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Windows/PostWindowsApi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\assert.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\math.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\objbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\rpc.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\rpcdce.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\rpcdcep.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\rpcnsi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\rpcnterr.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\rpcasync.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\rpcndr.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\rpcnsip.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\rpcsal.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\combaseapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\wtypesbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\guiddef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\unknwnbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\ole2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\oleauto.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\oaidl.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\objidl.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\unknwn.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\wtypes.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\coml2api.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\propidlbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\oleidl.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\objidlbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\guiddef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\cguid.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\urlmon.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\servprov.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\msxml.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\propidl.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\mmreg.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\mmsystem.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\mmsyscom.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\mciapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\mmsyscom.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\mmiscapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\mmsyscom.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\mmiscapi2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\mmsyscom.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\playsoundapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\mmsyscom.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\mmeapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\mmsyscom.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\timeapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\mmsyscom.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\joystickapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\mmsyscom.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Windows/HideWindowsPlatformTypes.h
+C:/Users/cam8439/Perforce/cam8439_ARCue4.26/CSCI715-ARCue/ARCue4.26/Plugins/Marketplace/AudioAnalyzer/Source/AudioAnalyzer/Private/AudioAnalyzerSoundWave.cpp
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Kismet/KismetSystemLibrary.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine/CollisionProfile.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CollisionProfile.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\KismetSystemLibrary.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Sound/DialogueTypes.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DialogueTypes.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Kismet\GameplayStaticsTypes.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStaticsTypes.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStatics.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Public\AudioDevice.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\SignalProcessing\Public\DSP/SpectrumAnalyzer.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\SignalProcessing\Public\DSP/AudioFFT.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\SignalProcessing\Public\DSP/FFTAlgorithm.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\SignalProcessing\Public\SampleBuffer.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Public\AudioDynamicParameter.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Sound/AudioSettings.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AudioSettings.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Sound/SoundClass.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SoundClass.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Sound/SoundMix.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SoundMix.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Sound/SoundSubmix.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\AudioExtensions\Public\IAudioEndpoint.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\SignalProcessing\Public\DSP/MultithreadedPatching.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AudioExtensions\IAudioEndpoint.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\AudioExtensions\Public\ISoundfieldEndpoint.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AudioExtensions\ISoundfieldEndpoint.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Sound\SampleBufferIO.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Sound\SoundEffectSubmix.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SoundEffectSubmix.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SoundSubmix.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Sound/SoundSourceBus.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Sound/AudioBus.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AudioBus.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SoundSourceBus.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Public\AudioVirtualLoop.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Public\ActiveSound.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Public\Audio/AudioDebug.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\SignalProcessing\Public\DSP/VolumeFader.h
+C:/Users/cam8439/Perforce/cam8439_ARCue4.26/CSCI715-ARCue/ARCue4.26/Plugins/Marketplace/AudioAnalyzer/Source/AudioAnalyzer/Private/AudioAnalyzerStream.cpp
+C:\Users\cam8439\Perforce\cam8439_ARCue4.26\CSCI715-ARCue\ARCue4.26\Plugins\Marketplace\AudioAnalyzer\Source\Thirdparty\miniaudio\include\miniaudio.h
+C:/Users/cam8439/Perforce/cam8439_ARCue4.26/CSCI715-ARCue/ARCue4.26/Plugins/Marketplace/AudioAnalyzer/Source/AudioAnalyzer/Private/HistoryManager.cpp
+C:/Users/cam8439/Perforce/cam8439_ARCue4.26/CSCI715-ARCue/ARCue4.26/Plugins/Marketplace/AudioAnalyzer/Source/AudioAnalyzer/Private/Texturizer.cpp
+C:\Users\cam8439\Perforce\cam8439_ARCue4.26\CSCI715-ARCue\ARCue4.26\Plugins\Marketplace\AudioAnalyzer\Source\AudioAnalyzer\Public\Texturizer.h
+C:\Users\cam8439\Perforce\cam8439_ARCue4.26\CSCI715-ARCue\ARCue4.26\Plugins\Marketplace\AudioAnalyzer\Intermediate\Build\Win64\UE4Editor\Inc\ParallelcubeAudioAnalyzer\Texturizer.generated.h

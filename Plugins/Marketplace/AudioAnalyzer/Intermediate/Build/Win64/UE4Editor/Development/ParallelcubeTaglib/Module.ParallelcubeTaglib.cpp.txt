@@ -1,0 +1,317 @@
+C:\Users\cam8439\Perforce\cam8439_ARCue4.26\CSCI715-ARCue\ARCue4.26\Plugins\Marketplace\AudioAnalyzer\Intermediate\Build\Win64\UE4Editor\Development\ParallelcubeTaglib\Definitions.ParallelcubeTaglib.h
+C:/Users/cam8439/Perforce/cam8439_ARCue4.26/CSCI715-ARCue/ARCue4.26/Plugins/Marketplace/AudioAnalyzer/Source/AudioAnalyzerTaglib/Private/AudioAnalyzerTaglibManager.cpp
+C:\Users\cam8439\Perforce\cam8439_ARCue4.26\CSCI715-ARCue\ARCue4.26\Plugins\Marketplace\AudioAnalyzer\Source\AudioAnalyzerTaglib\Classes\AudioAnalyzerTaglibManager.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\memory
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\iosfwd
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cstdio
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cwchar
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xmemory
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\limits
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cfloat
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\isa_availability.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xutility
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\utility
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\string
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xstring
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cctype
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\vector
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\sstream
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\istream
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\ostream
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\ios
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xlocnum
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cmath
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\iterator
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\streambuf
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xiosbase
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\share.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\system_error
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\__msvc_system_error_abi.hpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cerrno
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\stdexcept
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xcall_once.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xerrc.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xlocale
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xfacet
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xlocinfo
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xlocinfo.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\clocale
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\locale.h
+C:\Users\cam8439\Perforce\cam8439_ARCue4.26\CSCI715-ARCue\ARCue4.26\Plugins\Marketplace\AudioAnalyzer\Source\AudioAnalyzerTaglib\Thirdparty\Taglib\toolkit\tbytevector.h
+C:\Users\cam8439\Perforce\cam8439_ARCue4.26\CSCI715-ARCue\ARCue4.26\Plugins\Marketplace\AudioAnalyzer\Source\AudioAnalyzerTaglib\Thirdparty\Taglib\toolkit\taglib.h
+C:\Users\cam8439\Perforce\cam8439_ARCue4.26\CSCI715-ARCue\ARCue4.26\Plugins\Marketplace\AudioAnalyzer\Source\AudioAnalyzerTaglib\Thirdparty\Taglib\taglib_config.h
+C:\Users\cam8439\Perforce\cam8439_ARCue4.26\CSCI715-ARCue\ARCue4.26\Plugins\Marketplace\AudioAnalyzer\Source\AudioAnalyzerTaglib\Thirdparty\Taglib\taglib_export.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\iostream
+C:\Users\cam8439\Perforce\cam8439_ARCue4.26\CSCI715-ARCue\ARCue4.26\Plugins\Marketplace\AudioAnalyzer\Source\AudioAnalyzerTaglib\Thirdparty\Taglib\toolkit\tbytevectorstream.h
+C:\Users\cam8439\Perforce\cam8439_ARCue4.26\CSCI715-ARCue\ARCue4.26\Plugins\Marketplace\AudioAnalyzer\Source\AudioAnalyzerTaglib\Thirdparty\Taglib\toolkit\tiostream.h
+C:\Users\cam8439\Perforce\cam8439_ARCue4.26\CSCI715-ARCue\ARCue4.26\Plugins\Marketplace\AudioAnalyzer\Source\AudioAnalyzerTaglib\Thirdparty\Taglib\riff\wav\wavfile.h
+C:\Users\cam8439\Perforce\cam8439_ARCue4.26\CSCI715-ARCue\ARCue4.26\Plugins\Marketplace\AudioAnalyzer\Source\AudioAnalyzerTaglib\Thirdparty\Taglib\riff\rifffile.h
+C:\Users\cam8439\Perforce\cam8439_ARCue4.26\CSCI715-ARCue\ARCue4.26\Plugins\Marketplace\AudioAnalyzer\Source\AudioAnalyzerTaglib\Thirdparty\Taglib\toolkit\tfile.h
+C:\Users\cam8439\Perforce\cam8439_ARCue4.26\CSCI715-ARCue\ARCue4.26\Plugins\Marketplace\AudioAnalyzer\Source\AudioAnalyzerTaglib\Thirdparty\Taglib\toolkit\tstringlist.h
+C:\Users\cam8439\Perforce\cam8439_ARCue4.26\CSCI715-ARCue\ARCue4.26\Plugins\Marketplace\AudioAnalyzer\Source\AudioAnalyzerTaglib\Thirdparty\Taglib\toolkit\tstring.h
+C:\Users\cam8439\Perforce\cam8439_ARCue4.26\CSCI715-ARCue\ARCue4.26\Plugins\Marketplace\AudioAnalyzer\Source\AudioAnalyzerTaglib\Thirdparty\Taglib\toolkit\tlist.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\list
+C:\Users\cam8439\Perforce\cam8439_ARCue4.26\CSCI715-ARCue\ARCue4.26\Plugins\Marketplace\AudioAnalyzer\Source\AudioAnalyzerTaglib\Thirdparty\Taglib\toolkit\tlist.tcc
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\algorithm
+C:\Users\cam8439\Perforce\cam8439_ARCue4.26\CSCI715-ARCue\ARCue4.26\Plugins\Marketplace\AudioAnalyzer\Source\AudioAnalyzerTaglib\Thirdparty\Taglib\toolkit\trefcounter.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformTypes.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Windows/WindowsHWrapper.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Windows/PreWindowsApi.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Windows/MinWindows.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\Windows.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\sdkddkver.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\excpt.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\windef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\minwindef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winnt.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\kernelspecs.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\basetsd.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\guiddef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\apiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\ktmtypes.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\apisetcconv.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\minwinbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\apiquery2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\processenv.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\fileapifromapp.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\fileapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\debugapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\utilapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\handleapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\errhandlingapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\fibersapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\namedpipeapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\profileapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\heapapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\ioapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\synchapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\interlockedapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\processthreadsapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\sysinfoapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\memoryapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\enclaveapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\threadpoollegacyapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\threadpoolapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\jobapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\jobapi2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\wow64apiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\libloaderapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\securitybaseapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\namespaceapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\systemtopologyapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\processtopologyapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\securityappcontainer.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\realtimeapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\winerror.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\timezoneapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\wingdi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winuser.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\tvout.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winnls.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\datetimeapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\stringapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winnls.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\wincon.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\wincontypes.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\consoleapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\consoleapi2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\consoleapi3.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winver.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\verrsrc.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winreg.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\reason.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winnetwk.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\wnnc.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\stralign.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\imm.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\ime_cmodes.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Windows/PostWindowsApi.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformAtomics.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Windows/HideWindowsPlatformAtomics.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Windows/HideWindowsPlatformTypes.h
+C:\Users\cam8439\Perforce\cam8439_ARCue4.26\CSCI715-ARCue\ARCue4.26\Plugins\Marketplace\AudioAnalyzer\Source\AudioAnalyzerTaglib\Thirdparty\Taglib\toolkit\tbytevectorlist.h
+C:\Users\cam8439\Perforce\cam8439_ARCue4.26\CSCI715-ARCue\ARCue4.26\Plugins\Marketplace\AudioAnalyzer\Source\AudioAnalyzerTaglib\Thirdparty\Taglib\mpeg\id3v2\id3v2tag.h
+C:\Users\cam8439\Perforce\cam8439_ARCue4.26\CSCI715-ARCue\ARCue4.26\Plugins\Marketplace\AudioAnalyzer\Source\AudioAnalyzerTaglib\Thirdparty\Taglib\tag.h
+C:\Users\cam8439\Perforce\cam8439_ARCue4.26\CSCI715-ARCue\ARCue4.26\Plugins\Marketplace\AudioAnalyzer\Source\AudioAnalyzerTaglib\Thirdparty\Taglib\toolkit\tmap.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\map
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\tuple
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xtree
+C:\Users\cam8439\Perforce\cam8439_ARCue4.26\CSCI715-ARCue\ARCue4.26\Plugins\Marketplace\AudioAnalyzer\Source\AudioAnalyzerTaglib\Thirdparty\Taglib\toolkit\tmap.tcc
+C:\Users\cam8439\Perforce\cam8439_ARCue4.26\CSCI715-ARCue\ARCue4.26\Plugins\Marketplace\AudioAnalyzer\Source\AudioAnalyzerTaglib\Thirdparty\Taglib\mpeg\id3v2\id3v2.h
+C:\Users\cam8439\Perforce\cam8439_ARCue4.26\CSCI715-ARCue\ARCue4.26\Plugins\Marketplace\AudioAnalyzer\Source\AudioAnalyzerTaglib\Thirdparty\Taglib\mpeg\id3v2\id3v2framefactory.h
+C:\Users\cam8439\Perforce\cam8439_ARCue4.26\CSCI715-ARCue\ARCue4.26\Plugins\Marketplace\AudioAnalyzer\Source\AudioAnalyzerTaglib\Thirdparty\Taglib\mpeg\id3v2\id3v2frame.h
+C:\Users\cam8439\Perforce\cam8439_ARCue4.26\CSCI715-ARCue\ARCue4.26\Plugins\Marketplace\AudioAnalyzer\Source\AudioAnalyzerTaglib\Thirdparty\Taglib\mpeg\id3v2\id3v2header.h
+C:\Users\cam8439\Perforce\cam8439_ARCue4.26\CSCI715-ARCue\ARCue4.26\Plugins\Marketplace\AudioAnalyzer\Source\AudioAnalyzerTaglib\Thirdparty\Taglib\riff\wav\infotag.h
+C:\Users\cam8439\Perforce\cam8439_ARCue4.26\CSCI715-ARCue\ARCue4.26\Plugins\Marketplace\AudioAnalyzer\Source\AudioAnalyzerTaglib\Thirdparty\Taglib\riff\wav\wavproperties.h
+C:\Users\cam8439\Perforce\cam8439_ARCue4.26\CSCI715-ARCue\ARCue4.26\Plugins\Marketplace\AudioAnalyzer\Source\AudioAnalyzerTaglib\Thirdparty\Taglib\audioproperties.h
+C:\Users\cam8439\Perforce\cam8439_ARCue4.26\CSCI715-ARCue\ARCue4.26\Plugins\Marketplace\AudioAnalyzer\Source\AudioAnalyzerTaglib\Thirdparty\Taglib\mpeg\mpegfile.h
+C:\Users\cam8439\Perforce\cam8439_ARCue4.26\CSCI715-ARCue\ARCue4.26\Plugins\Marketplace\AudioAnalyzer\Source\AudioAnalyzerTaglib\Thirdparty\Taglib\mpeg\mpegproperties.h
+C:\Users\cam8439\Perforce\cam8439_ARCue4.26\CSCI715-ARCue\ARCue4.26\Plugins\Marketplace\AudioAnalyzer\Source\AudioAnalyzerTaglib\Thirdparty\Taglib\mpeg\mpegheader.h
+C:\Users\cam8439\Perforce\cam8439_ARCue4.26\CSCI715-ARCue\ARCue4.26\Plugins\Marketplace\AudioAnalyzer\Source\AudioAnalyzerTaglib\Thirdparty\Taglib\mpeg\id3v1\id3v1tag.h
+C:\Users\cam8439\Perforce\cam8439_ARCue4.26\CSCI715-ARCue\ARCue4.26\Plugins\Marketplace\AudioAnalyzer\Source\AudioAnalyzerTaglib\Thirdparty\Taglib\mpeg\id3v2\frames\attachedpictureframe.h
+C:\Users\cam8439\Perforce\cam8439_ARCue4.26\CSCI715-ARCue\ARCue4.26\Plugins\Marketplace\AudioAnalyzer\Source\AudioAnalyzerTaglib\Thirdparty\Taglib\ogg\oggfile.h
+C:\Users\cam8439\Perforce\cam8439_ARCue4.26\CSCI715-ARCue\ARCue4.26\Plugins\Marketplace\AudioAnalyzer\Source\AudioAnalyzerTaglib\Thirdparty\Taglib\ogg\vorbis\vorbisfile.h
+C:\Users\cam8439\Perforce\cam8439_ARCue4.26\CSCI715-ARCue\ARCue4.26\Plugins\Marketplace\AudioAnalyzer\Source\AudioAnalyzerTaglib\Thirdparty\Taglib\ogg\oggfile.h
+C:\Users\cam8439\Perforce\cam8439_ARCue4.26\CSCI715-ARCue\ARCue4.26\Plugins\Marketplace\AudioAnalyzer\Source\AudioAnalyzerTaglib\Thirdparty\Taglib\ogg\xiphcomment.h
+C:\Users\cam8439\Perforce\cam8439_ARCue4.26\CSCI715-ARCue\ARCue4.26\Plugins\Marketplace\AudioAnalyzer\Source\AudioAnalyzerTaglib\Thirdparty\Taglib\flac\flacpicture.h
+C:\Users\cam8439\Perforce\cam8439_ARCue4.26\CSCI715-ARCue\ARCue4.26\Plugins\Marketplace\AudioAnalyzer\Source\AudioAnalyzerTaglib\Thirdparty\Taglib\flac\flacmetadatablock.h
+C:\Users\cam8439\Perforce\cam8439_ARCue4.26\CSCI715-ARCue\ARCue4.26\Plugins\Marketplace\AudioAnalyzer\Source\AudioAnalyzerTaglib\Thirdparty\Taglib\ogg\vorbis\vorbisproperties.h
+C:\Users\cam8439\Perforce\cam8439_ARCue4.26\CSCI715-ARCue\ARCue4.26\Plugins\Marketplace\AudioAnalyzer\Source\AudioAnalyzerTaglib\Thirdparty\Taglib\flac\flacfile.h
+C:\Users\cam8439\Perforce\cam8439_ARCue4.26\CSCI715-ARCue\ARCue4.26\Plugins\Marketplace\AudioAnalyzer\Source\AudioAnalyzerTaglib\Thirdparty\Taglib\flac\flacproperties.h
+C:/Users/cam8439/Perforce/cam8439_ARCue4.26/CSCI715-ARCue/ARCue4.26/Plugins/Marketplace/AudioAnalyzer/Source/AudioAnalyzerTaglib/Private/PCTagLibPlugin.cpp
+C:\Users\cam8439\Perforce\cam8439_ARCue4.26\CSCI715-ARCue\ARCue4.26\Plugins\Marketplace\AudioAnalyzer\Source\AudioAnalyzerTaglib\Public\PCTaglibPlugin.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Projects\Public\Interfaces/IPluginManager.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Projects\Public\PluginDescriptor.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Projects\Public\ModuleDescriptor.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Projects\Public\CustomBuildSteps.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Projects\Public\LocalizationDescriptor.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Projects\Public\PluginReferenceDescriptor.h
+C:/Users/cam8439/Perforce/cam8439_ARCue4.26/CSCI715-ARCue/ARCue4.26/Plugins/Marketplace/AudioAnalyzer/Source/AudioAnalyzerTaglib/Thirdparty/Taglib/ape/apefile.cpp
+C:\Users\cam8439\Perforce\cam8439_ARCue4.26\CSCI715-ARCue\ARCue4.26\Plugins\Marketplace\AudioAnalyzer\Source\AudioAnalyzerTaglib\Thirdparty\Taglib\ape\apefile.h
+C:\Users\cam8439\Perforce\cam8439_ARCue4.26\CSCI715-ARCue\ARCue4.26\Plugins\Marketplace\AudioAnalyzer\Source\AudioAnalyzerTaglib\Thirdparty\Taglib\ape\apeproperties.h
+C:\Users\cam8439\Perforce\cam8439_ARCue4.26\CSCI715-ARCue\ARCue4.26\Plugins\Marketplace\AudioAnalyzer\Source\AudioAnalyzerTaglib\Thirdparty\Taglib\toolkit\tdebug.h
+C:\Users\cam8439\Perforce\cam8439_ARCue4.26\CSCI715-ARCue\ARCue4.26\Plugins\Marketplace\AudioAnalyzer\Source\AudioAnalyzerTaglib\Thirdparty\Taglib\tagunion.h
+C:\Users\cam8439\Perforce\cam8439_ARCue4.26\CSCI715-ARCue\ARCue4.26\Plugins\Marketplace\AudioAnalyzer\Source\AudioAnalyzerTaglib\Thirdparty\Taglib\toolkit\tpropertymap.h
+C:\Users\cam8439\Perforce\cam8439_ARCue4.26\CSCI715-ARCue\ARCue4.26\Plugins\Marketplace\AudioAnalyzer\Source\AudioAnalyzerTaglib\Thirdparty\Taglib\tagutils.h
+C:\Users\cam8439\Perforce\cam8439_ARCue4.26\CSCI715-ARCue\ARCue4.26\Plugins\Marketplace\AudioAnalyzer\Source\AudioAnalyzerTaglib\Thirdparty\Taglib\ape\apetag.h
+C:\Users\cam8439\Perforce\cam8439_ARCue4.26\CSCI715-ARCue\ARCue4.26\Plugins\Marketplace\AudioAnalyzer\Source\AudioAnalyzerTaglib\Thirdparty\Taglib\ape\apeitem.h
+C:\Users\cam8439\Perforce\cam8439_ARCue4.26\CSCI715-ARCue\ARCue4.26\Plugins\Marketplace\AudioAnalyzer\Source\AudioAnalyzerTaglib\Thirdparty\Taglib\ape\apefooter.h
+C:/Users/cam8439/Perforce/cam8439_ARCue4.26/CSCI715-ARCue/ARCue4.26/Plugins/Marketplace/AudioAnalyzer/Source/AudioAnalyzerTaglib/Thirdparty/Taglib/ape/apefooter.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\bitset
+C:/Users/cam8439/Perforce/cam8439_ARCue4.26/CSCI715-ARCue/ARCue4.26/Plugins/Marketplace/AudioAnalyzer/Source/AudioAnalyzerTaglib/Thirdparty/Taglib/ape/apeitem.cpp
+C:/Users/cam8439/Perforce/cam8439_ARCue4.26/CSCI715-ARCue/ARCue4.26/Plugins/Marketplace/AudioAnalyzer/Source/AudioAnalyzerTaglib/Thirdparty/Taglib/ape/apeproperties.cpp
+C:/Users/cam8439/Perforce/cam8439_ARCue4.26/CSCI715-ARCue/ARCue4.26/Plugins/Marketplace/AudioAnalyzer/Source/AudioAnalyzerTaglib/Thirdparty/Taglib/ape/apetag.cpp
+C:\Users\cam8439\Perforce\cam8439_ARCue4.26\CSCI715-ARCue\ARCue4.26\Plugins\Marketplace\AudioAnalyzer\Source\AudioAnalyzerTaglib\Thirdparty\Taglib\toolkit\tutils.h
+C:\Users\cam8439\Perforce\cam8439_ARCue4.26\CSCI715-ARCue\ARCue4.26\Plugins\Marketplace\AudioAnalyzer\Source\AudioAnalyzerTaglib\Thirdparty\Taglib\taglibconfig.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cstdarg
+C:/Users/cam8439/Perforce/cam8439_ARCue4.26/CSCI715-ARCue/ARCue4.26/Plugins/Marketplace/AudioAnalyzer/Source/AudioAnalyzerTaglib/Thirdparty/Taglib/audioproperties.cpp
+C:/Users/cam8439/Perforce/cam8439_ARCue4.26/CSCI715-ARCue/ARCue4.26/Plugins/Marketplace/AudioAnalyzer/Source/AudioAnalyzerTaglib/Thirdparty/Taglib/flac/flacfile.cpp
+C:\Users\cam8439\Perforce\cam8439_ARCue4.26\CSCI715-ARCue\ARCue4.26\Plugins\Marketplace\AudioAnalyzer\Source\AudioAnalyzerTaglib\Thirdparty\Taglib\flac\flacunknownmetadatablock.h
+C:/Users/cam8439/Perforce/cam8439_ARCue4.26/CSCI715-ARCue/ARCue4.26/Plugins/Marketplace/AudioAnalyzer/Source/AudioAnalyzerTaglib/Thirdparty/Taglib/flac/flacmetadatablock.cpp
+C:/Users/cam8439/Perforce/cam8439_ARCue4.26/CSCI715-ARCue/ARCue4.26/Plugins/Marketplace/AudioAnalyzer/Source/AudioAnalyzerTaglib/Thirdparty/Taglib/flac/flacpicture.cpp
+C:/Users/cam8439/Perforce/cam8439_ARCue4.26/CSCI715-ARCue/ARCue4.26/Plugins/Marketplace/AudioAnalyzer/Source/AudioAnalyzerTaglib/Thirdparty/Taglib/flac/flacproperties.cpp
+C:/Users/cam8439/Perforce/cam8439_ARCue4.26/CSCI715-ARCue/ARCue4.26/Plugins/Marketplace/AudioAnalyzer/Source/AudioAnalyzerTaglib/Thirdparty/Taglib/flac/flacunknownmetadatablock.cpp
+C:/Users/cam8439/Perforce/cam8439_ARCue4.26/CSCI715-ARCue/ARCue4.26/Plugins/Marketplace/AudioAnalyzer/Source/AudioAnalyzerTaglib/Thirdparty/Taglib/mpeg/id3v1/id3v1genres.cpp
+C:\Users\cam8439\Perforce\cam8439_ARCue4.26\CSCI715-ARCue\ARCue4.26\Plugins\Marketplace\AudioAnalyzer\Source\AudioAnalyzerTaglib\Thirdparty\Taglib\mpeg\id3v1\id3v1genres.h
+C:/Users/cam8439/Perforce/cam8439_ARCue4.26/CSCI715-ARCue/ARCue4.26/Plugins/Marketplace/AudioAnalyzer/Source/AudioAnalyzerTaglib/Thirdparty/Taglib/mpeg/id3v1/id3v1tag.cpp
+C:/Users/cam8439/Perforce/cam8439_ARCue4.26/CSCI715-ARCue/ARCue4.26/Plugins/Marketplace/AudioAnalyzer/Source/AudioAnalyzerTaglib/Thirdparty/Taglib/mpeg/id3v2/frames/attachedpictureframe.cpp
+C:/Users/cam8439/Perforce/cam8439_ARCue4.26/CSCI715-ARCue/ARCue4.26/Plugins/Marketplace/AudioAnalyzer/Source/AudioAnalyzerTaglib/Thirdparty/Taglib/mpeg/id3v2/frames/chapterframe.cpp
+C:\Users\cam8439\Perforce\cam8439_ARCue4.26\CSCI715-ARCue\ARCue4.26\Plugins\Marketplace\AudioAnalyzer\Source\AudioAnalyzerTaglib\Thirdparty\Taglib\mpeg\id3v2\frames\chapterframe.h
+C:/Users/cam8439/Perforce/cam8439_ARCue4.26/CSCI715-ARCue/ARCue4.26/Plugins/Marketplace/AudioAnalyzer/Source/AudioAnalyzerTaglib/Thirdparty/Taglib/mpeg/id3v2/frames/commentsframe.cpp
+C:\Users\cam8439\Perforce\cam8439_ARCue4.26\CSCI715-ARCue\ARCue4.26\Plugins\Marketplace\AudioAnalyzer\Source\AudioAnalyzerTaglib\Thirdparty\Taglib\mpeg\id3v2\frames\commentsframe.h
+C:/Users/cam8439/Perforce/cam8439_ARCue4.26/CSCI715-ARCue/ARCue4.26/Plugins/Marketplace/AudioAnalyzer/Source/AudioAnalyzerTaglib/Thirdparty/Taglib/mpeg/id3v2/frames/eventtimingcodesframe.cpp
+C:\Users\cam8439\Perforce\cam8439_ARCue4.26\CSCI715-ARCue\ARCue4.26\Plugins\Marketplace\AudioAnalyzer\Source\AudioAnalyzerTaglib\Thirdparty\Taglib\mpeg\id3v2\frames\eventtimingcodesframe.h
+C:/Users/cam8439/Perforce/cam8439_ARCue4.26/CSCI715-ARCue/ARCue4.26/Plugins/Marketplace/AudioAnalyzer/Source/AudioAnalyzerTaglib/Thirdparty/Taglib/mpeg/id3v2/frames/generalencapsulatedobjectframe.cpp
+C:\Users\cam8439\Perforce\cam8439_ARCue4.26\CSCI715-ARCue\ARCue4.26\Plugins\Marketplace\AudioAnalyzer\Source\AudioAnalyzerTaglib\Thirdparty\Taglib\mpeg\id3v2\frames\generalencapsulatedobjectframe.h
+C:/Users/cam8439/Perforce/cam8439_ARCue4.26/CSCI715-ARCue/ARCue4.26/Plugins/Marketplace/AudioAnalyzer/Source/AudioAnalyzerTaglib/Thirdparty/Taglib/mpeg/id3v2/frames/ownershipframe.cpp
+C:\Users\cam8439\Perforce\cam8439_ARCue4.26\CSCI715-ARCue\ARCue4.26\Plugins\Marketplace\AudioAnalyzer\Source\AudioAnalyzerTaglib\Thirdparty\Taglib\mpeg\id3v2\frames\ownershipframe.h
+C:/Users/cam8439/Perforce/cam8439_ARCue4.26/CSCI715-ARCue/ARCue4.26/Plugins/Marketplace/AudioAnalyzer/Source/AudioAnalyzerTaglib/Thirdparty/Taglib/mpeg/id3v2/frames/podcastframe.cpp
+C:\Users\cam8439\Perforce\cam8439_ARCue4.26\CSCI715-ARCue\ARCue4.26\Plugins\Marketplace\AudioAnalyzer\Source\AudioAnalyzerTaglib\Thirdparty\Taglib\mpeg\id3v2\frames\podcastframe.h
+C:/Users/cam8439/Perforce/cam8439_ARCue4.26/CSCI715-ARCue/ARCue4.26/Plugins/Marketplace/AudioAnalyzer/Source/AudioAnalyzerTaglib/Thirdparty/Taglib/mpeg/id3v2/frames/popularimeterframe.cpp
+C:\Users\cam8439\Perforce\cam8439_ARCue4.26\CSCI715-ARCue\ARCue4.26\Plugins\Marketplace\AudioAnalyzer\Source\AudioAnalyzerTaglib\Thirdparty\Taglib\mpeg\id3v2\frames\popularimeterframe.h
+C:/Users/cam8439/Perforce/cam8439_ARCue4.26/CSCI715-ARCue/ARCue4.26/Plugins/Marketplace/AudioAnalyzer/Source/AudioAnalyzerTaglib/Thirdparty/Taglib/mpeg/id3v2/frames/privateframe.cpp
+C:\Users\cam8439\Perforce\cam8439_ARCue4.26\CSCI715-ARCue\ARCue4.26\Plugins\Marketplace\AudioAnalyzer\Source\AudioAnalyzerTaglib\Thirdparty\Taglib\mpeg\id3v2\frames\privateframe.h
+C:/Users/cam8439/Perforce/cam8439_ARCue4.26/CSCI715-ARCue/ARCue4.26/Plugins/Marketplace/AudioAnalyzer/Source/AudioAnalyzerTaglib/Thirdparty/Taglib/mpeg/id3v2/frames/relativevolumeframe.cpp
+C:\Users\cam8439\Perforce\cam8439_ARCue4.26\CSCI715-ARCue\ARCue4.26\Plugins\Marketplace\AudioAnalyzer\Source\AudioAnalyzerTaglib\Thirdparty\Taglib\mpeg\id3v2\frames\relativevolumeframe.h
+C:/Users/cam8439/Perforce/cam8439_ARCue4.26/CSCI715-ARCue/ARCue4.26/Plugins/Marketplace/AudioAnalyzer/Source/AudioAnalyzerTaglib/Thirdparty/Taglib/mpeg/id3v2/frames/synchronizedlyricsframe.cpp
+C:\Users\cam8439\Perforce\cam8439_ARCue4.26\CSCI715-ARCue\ARCue4.26\Plugins\Marketplace\AudioAnalyzer\Source\AudioAnalyzerTaglib\Thirdparty\Taglib\mpeg\id3v2\frames\synchronizedlyricsframe.h
+C:/Users/cam8439/Perforce/cam8439_ARCue4.26/CSCI715-ARCue/ARCue4.26/Plugins/Marketplace/AudioAnalyzer/Source/AudioAnalyzerTaglib/Thirdparty/Taglib/mpeg/id3v2/frames/tableofcontentsframe.cpp
+C:\Users\cam8439\Perforce\cam8439_ARCue4.26\CSCI715-ARCue\ARCue4.26\Plugins\Marketplace\AudioAnalyzer\Source\AudioAnalyzerTaglib\Thirdparty\Taglib\mpeg\id3v2\frames\tableofcontentsframe.h
+C:/Users/cam8439/Perforce/cam8439_ARCue4.26/CSCI715-ARCue/ARCue4.26/Plugins/Marketplace/AudioAnalyzer/Source/AudioAnalyzerTaglib/Thirdparty/Taglib/mpeg/id3v2/frames/textidentificationframe.cpp
+C:\Users\cam8439\Perforce\cam8439_ARCue4.26\CSCI715-ARCue\ARCue4.26\Plugins\Marketplace\AudioAnalyzer\Source\AudioAnalyzerTaglib\Thirdparty\Taglib\mpeg\id3v2\frames\textidentificationframe.h
+C:/Users/cam8439/Perforce/cam8439_ARCue4.26/CSCI715-ARCue/ARCue4.26/Plugins/Marketplace/AudioAnalyzer/Source/AudioAnalyzerTaglib/Thirdparty/Taglib/mpeg/id3v2/frames/uniquefileidentifierframe.cpp
+C:\Users\cam8439\Perforce\cam8439_ARCue4.26\CSCI715-ARCue\ARCue4.26\Plugins\Marketplace\AudioAnalyzer\Source\AudioAnalyzerTaglib\Thirdparty\Taglib\mpeg\id3v2\frames\uniquefileidentifierframe.h
+C:/Users/cam8439/Perforce/cam8439_ARCue4.26/CSCI715-ARCue/ARCue4.26/Plugins/Marketplace/AudioAnalyzer/Source/AudioAnalyzerTaglib/Thirdparty/Taglib/mpeg/id3v2/frames/unknownframe.cpp
+C:\Users\cam8439\Perforce\cam8439_ARCue4.26\CSCI715-ARCue\ARCue4.26\Plugins\Marketplace\AudioAnalyzer\Source\AudioAnalyzerTaglib\Thirdparty\Taglib\mpeg\id3v2\frames\unknownframe.h
+C:/Users/cam8439/Perforce/cam8439_ARCue4.26/CSCI715-ARCue/ARCue4.26/Plugins/Marketplace/AudioAnalyzer/Source/AudioAnalyzerTaglib/Thirdparty/Taglib/mpeg/id3v2/frames/unsynchronizedlyricsframe.cpp
+C:\Users\cam8439\Perforce\cam8439_ARCue4.26\CSCI715-ARCue\ARCue4.26\Plugins\Marketplace\AudioAnalyzer\Source\AudioAnalyzerTaglib\Thirdparty\Taglib\mpeg\id3v2\frames\unsynchronizedlyricsframe.h
+C:/Users/cam8439/Perforce/cam8439_ARCue4.26/CSCI715-ARCue/ARCue4.26/Plugins/Marketplace/AudioAnalyzer/Source/AudioAnalyzerTaglib/Thirdparty/Taglib/mpeg/id3v2/frames/urllinkframe.cpp
+C:\Users\cam8439\Perforce\cam8439_ARCue4.26\CSCI715-ARCue\ARCue4.26\Plugins\Marketplace\AudioAnalyzer\Source\AudioAnalyzerTaglib\Thirdparty\Taglib\mpeg\id3v2\frames\urllinkframe.h
+C:/Users/cam8439/Perforce/cam8439_ARCue4.26/CSCI715-ARCue/ARCue4.26/Plugins/Marketplace/AudioAnalyzer/Source/AudioAnalyzerTaglib/Thirdparty/Taglib/mpeg/id3v2/id3v2extendedheader.cpp
+C:\Users\cam8439\Perforce\cam8439_ARCue4.26\CSCI715-ARCue\ARCue4.26\Plugins\Marketplace\AudioAnalyzer\Source\AudioAnalyzerTaglib\Thirdparty\Taglib\mpeg\id3v2\id3v2extendedheader.h
+C:\Users\cam8439\Perforce\cam8439_ARCue4.26\CSCI715-ARCue\ARCue4.26\Plugins\Marketplace\AudioAnalyzer\Source\AudioAnalyzerTaglib\Thirdparty\Taglib\mpeg\id3v2\id3v2synchdata.h
+C:/Users/cam8439/Perforce/cam8439_ARCue4.26/CSCI715-ARCue/ARCue4.26/Plugins/Marketplace/AudioAnalyzer/Source/AudioAnalyzerTaglib/Thirdparty/Taglib/mpeg/id3v2/id3v2footer.cpp
+C:\Users\cam8439\Perforce\cam8439_ARCue4.26\CSCI715-ARCue\ARCue4.26\Plugins\Marketplace\AudioAnalyzer\Source\AudioAnalyzerTaglib\Thirdparty\Taglib\mpeg\id3v2\id3v2footer.h
+C:/Users/cam8439/Perforce/cam8439_ARCue4.26/CSCI715-ARCue/ARCue4.26/Plugins/Marketplace/AudioAnalyzer/Source/AudioAnalyzerTaglib/Thirdparty/Taglib/mpeg/id3v2/id3v2frame.cpp
+C:\Users\cam8439\Perforce\cam8439_ARCue4.26\CSCI715-ARCue\ARCue4.26\Plugins\Marketplace\AudioAnalyzer\Source\AudioAnalyzerTaglib\Thirdparty\Taglib\toolkit\tzlib.h
+C:/Users/cam8439/Perforce/cam8439_ARCue4.26/CSCI715-ARCue/ARCue4.26/Plugins/Marketplace/AudioAnalyzer/Source/AudioAnalyzerTaglib/Thirdparty/Taglib/mpeg/id3v2/id3v2framefactory.cpp
+C:/Users/cam8439/Perforce/cam8439_ARCue4.26/CSCI715-ARCue/ARCue4.26/Plugins/Marketplace/AudioAnalyzer/Source/AudioAnalyzerTaglib/Thirdparty/Taglib/mpeg/id3v2/id3v2header.cpp
+C:/Users/cam8439/Perforce/cam8439_ARCue4.26/CSCI715-ARCue/ARCue4.26/Plugins/Marketplace/AudioAnalyzer/Source/AudioAnalyzerTaglib/Thirdparty/Taglib/mpeg/id3v2/id3v2synchdata.cpp
+C:/Users/cam8439/Perforce/cam8439_ARCue4.26/CSCI715-ARCue/ARCue4.26/Plugins/Marketplace/AudioAnalyzer/Source/AudioAnalyzerTaglib/Thirdparty/Taglib/mpeg/id3v2/id3v2tag.cpp
+C:/Users/cam8439/Perforce/cam8439_ARCue4.26/CSCI715-ARCue/ARCue4.26/Plugins/Marketplace/AudioAnalyzer/Source/AudioAnalyzerTaglib/Thirdparty/Taglib/mpeg/mpegfile.cpp
+C:\Users\cam8439\Perforce\cam8439_ARCue4.26\CSCI715-ARCue\ARCue4.26\Plugins\Marketplace\AudioAnalyzer\Source\AudioAnalyzerTaglib\Thirdparty\Taglib\mpeg\mpegutils.h
+C:/Users/cam8439/Perforce/cam8439_ARCue4.26/CSCI715-ARCue/ARCue4.26/Plugins/Marketplace/AudioAnalyzer/Source/AudioAnalyzerTaglib/Thirdparty/Taglib/mpeg/mpegheader.cpp
+C:/Users/cam8439/Perforce/cam8439_ARCue4.26/CSCI715-ARCue/ARCue4.26/Plugins/Marketplace/AudioAnalyzer/Source/AudioAnalyzerTaglib/Thirdparty/Taglib/mpeg/mpegproperties.cpp
+C:\Users\cam8439\Perforce\cam8439_ARCue4.26\CSCI715-ARCue\ARCue4.26\Plugins\Marketplace\AudioAnalyzer\Source\AudioAnalyzerTaglib\Thirdparty\Taglib\mpeg\xingheader.h
+C:/Users/cam8439/Perforce/cam8439_ARCue4.26/CSCI715-ARCue/ARCue4.26/Plugins/Marketplace/AudioAnalyzer/Source/AudioAnalyzerTaglib/Thirdparty/Taglib/mpeg/xingheader.cpp
+C:/Users/cam8439/Perforce/cam8439_ARCue4.26/CSCI715-ARCue/ARCue4.26/Plugins/Marketplace/AudioAnalyzer/Source/AudioAnalyzerTaglib/Thirdparty/Taglib/ogg/oggfile.cpp
+C:\Users\cam8439\Perforce\cam8439_ARCue4.26\CSCI715-ARCue\ARCue4.26\Plugins\Marketplace\AudioAnalyzer\Source\AudioAnalyzerTaglib\Thirdparty\Taglib\ogg\oggfile.h
+C:\Users\cam8439\Perforce\cam8439_ARCue4.26\CSCI715-ARCue\ARCue4.26\Plugins\Marketplace\AudioAnalyzer\Source\AudioAnalyzerTaglib\Thirdparty\Taglib\ogg\oggpage.h
+C:\Users\cam8439\Perforce\cam8439_ARCue4.26\CSCI715-ARCue\ARCue4.26\Plugins\Marketplace\AudioAnalyzer\Source\AudioAnalyzerTaglib\Thirdparty\Taglib\ogg\oggpageheader.h
+C:/Users/cam8439/Perforce/cam8439_ARCue4.26/CSCI715-ARCue/ARCue4.26/Plugins/Marketplace/AudioAnalyzer/Source/AudioAnalyzerTaglib/Thirdparty/Taglib/ogg/oggpage.cpp
+C:\Users\cam8439\Perforce\cam8439_ARCue4.26\CSCI715-ARCue\ARCue4.26\Plugins\Marketplace\AudioAnalyzer\Source\AudioAnalyzerTaglib\Thirdparty\Taglib\ogg\oggfile.h
+C:/Users/cam8439/Perforce/cam8439_ARCue4.26/CSCI715-ARCue/ARCue4.26/Plugins/Marketplace/AudioAnalyzer/Source/AudioAnalyzerTaglib/Thirdparty/Taglib/ogg/oggpageheader.cpp
+C:\Users\cam8439\Perforce\cam8439_ARCue4.26\CSCI715-ARCue\ARCue4.26\Plugins\Marketplace\AudioAnalyzer\Source\AudioAnalyzerTaglib\Thirdparty\Taglib\ogg\oggfile.h
+C:/Users/cam8439/Perforce/cam8439_ARCue4.26/CSCI715-ARCue/ARCue4.26/Plugins/Marketplace/AudioAnalyzer/Source/AudioAnalyzerTaglib/Thirdparty/Taglib/ogg/vorbis/vorbisfile.cpp
+C:/Users/cam8439/Perforce/cam8439_ARCue4.26/CSCI715-ARCue/ARCue4.26/Plugins/Marketplace/AudioAnalyzer/Source/AudioAnalyzerTaglib/Thirdparty/Taglib/ogg/vorbis/vorbisproperties.cpp
+C:/Users/cam8439/Perforce/cam8439_ARCue4.26/CSCI715-ARCue/ARCue4.26/Plugins/Marketplace/AudioAnalyzer/Source/AudioAnalyzerTaglib/Thirdparty/Taglib/ogg/xiphcomment.cpp
+C:/Users/cam8439/Perforce/cam8439_ARCue4.26/CSCI715-ARCue/ARCue4.26/Plugins/Marketplace/AudioAnalyzer/Source/AudioAnalyzerTaglib/Thirdparty/Taglib/riff/rifffile.cpp
+C:\Users\cam8439\Perforce\cam8439_ARCue4.26\CSCI715-ARCue\ARCue4.26\Plugins\Marketplace\AudioAnalyzer\Source\AudioAnalyzerTaglib\Thirdparty\Taglib\riff\riffutils.h
+C:/Users/cam8439/Perforce/cam8439_ARCue4.26/CSCI715-ARCue/ARCue4.26/Plugins/Marketplace/AudioAnalyzer/Source/AudioAnalyzerTaglib/Thirdparty/Taglib/riff/wav/infotag.cpp
+C:/Users/cam8439/Perforce/cam8439_ARCue4.26/CSCI715-ARCue/ARCue4.26/Plugins/Marketplace/AudioAnalyzer/Source/AudioAnalyzerTaglib/Thirdparty/Taglib/riff/wav/wavfile.cpp
+C:/Users/cam8439/Perforce/cam8439_ARCue4.26/CSCI715-ARCue/ARCue4.26/Plugins/Marketplace/AudioAnalyzer/Source/AudioAnalyzerTaglib/Thirdparty/Taglib/riff/wav/wavproperties.cpp
+C:/Users/cam8439/Perforce/cam8439_ARCue4.26/CSCI715-ARCue/ARCue4.26/Plugins/Marketplace/AudioAnalyzer/Source/AudioAnalyzerTaglib/Thirdparty/Taglib/tag.cpp
+C:/Users/cam8439/Perforce/cam8439_ARCue4.26/CSCI715-ARCue/ARCue4.26/Plugins/Marketplace/AudioAnalyzer/Source/AudioAnalyzerTaglib/Thirdparty/Taglib/tagunion.cpp
+C:/Users/cam8439/Perforce/cam8439_ARCue4.26/CSCI715-ARCue/ARCue4.26/Plugins/Marketplace/AudioAnalyzer/Source/AudioAnalyzerTaglib/Thirdparty/Taglib/tagutils.cpp
+C:/Users/cam8439/Perforce/cam8439_ARCue4.26/CSCI715-ARCue/ARCue4.26/Plugins/Marketplace/AudioAnalyzer/Source/AudioAnalyzerTaglib/Thirdparty/Taglib/toolkit/tbytevector.cpp
+C:/Users/cam8439/Perforce/cam8439_ARCue4.26/CSCI715-ARCue/ARCue4.26/Plugins/Marketplace/AudioAnalyzer/Source/AudioAnalyzerTaglib/Thirdparty/Taglib/toolkit/tbytevectorlist.cpp
+C:/Users/cam8439/Perforce/cam8439_ARCue4.26/CSCI715-ARCue/ARCue4.26/Plugins/Marketplace/AudioAnalyzer/Source/AudioAnalyzerTaglib/Thirdparty/Taglib/toolkit/tbytevectorstream.cpp
+C:/Users/cam8439/Perforce/cam8439_ARCue4.26/CSCI715-ARCue/ARCue4.26/Plugins/Marketplace/AudioAnalyzer/Source/AudioAnalyzerTaglib/Thirdparty/Taglib/toolkit/tdebug.cpp
+C:/Users/cam8439/Perforce/cam8439_ARCue4.26/CSCI715-ARCue/ARCue4.26/Plugins/Marketplace/AudioAnalyzer/Source/AudioAnalyzerTaglib/Thirdparty/Taglib/toolkit/tdebuglistener.cpp
+C:\Users\cam8439\Perforce\cam8439_ARCue4.26\CSCI715-ARCue\ARCue4.26\Plugins\Marketplace\AudioAnalyzer\Source\AudioAnalyzerTaglib\Thirdparty\Taglib\toolkit\tdebuglistener.h
+C:/Users/cam8439/Perforce/cam8439_ARCue4.26/CSCI715-ARCue/ARCue4.26/Plugins/Marketplace/AudioAnalyzer/Source/AudioAnalyzerTaglib/Thirdparty/Taglib/toolkit/tfile.cpp
+C:\Users\cam8439\Perforce\cam8439_ARCue4.26\CSCI715-ARCue\ARCue4.26\Plugins\Marketplace\AudioAnalyzer\Source\AudioAnalyzerTaglib\Thirdparty\Taglib\toolkit\tfilestream.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\io.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_io.h
+C:/Users/cam8439/Perforce/cam8439_ARCue4.26/CSCI715-ARCue/ARCue4.26/Plugins/Marketplace/AudioAnalyzer/Source/AudioAnalyzerTaglib/Thirdparty/Taglib/toolkit/tfilestream.cpp
+C:/Users/cam8439/Perforce/cam8439_ARCue4.26/CSCI715-ARCue/ARCue4.26/Plugins/Marketplace/AudioAnalyzer/Source/AudioAnalyzerTaglib/Thirdparty/Taglib/toolkit/tiostream.cpp
+C:/Users/cam8439/Perforce/cam8439_ARCue4.26/CSCI715-ARCue/ARCue4.26/Plugins/Marketplace/AudioAnalyzer/Source/AudioAnalyzerTaglib/Thirdparty/Taglib/toolkit/tpropertymap.cpp
+C:/Users/cam8439/Perforce/cam8439_ARCue4.26/CSCI715-ARCue/ARCue4.26/Plugins/Marketplace/AudioAnalyzer/Source/AudioAnalyzerTaglib/Thirdparty/Taglib/toolkit/trefcounter.cpp
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformTypes.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformAtomics.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Windows/HideWindowsPlatformAtomics.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Windows/HideWindowsPlatformTypes.h
+C:/Users/cam8439/Perforce/cam8439_ARCue4.26/CSCI715-ARCue/ARCue4.26/Plugins/Marketplace/AudioAnalyzer/Source/AudioAnalyzerTaglib/Thirdparty/Taglib/toolkit/tstring.cpp
+C:\Users\cam8439\Perforce\cam8439_ARCue4.26\CSCI715-ARCue\ARCue4.26\Plugins\Marketplace\AudioAnalyzer\Source\AudioAnalyzerTaglib\Thirdparty\utf8-cpp\checked.h
+C:\Users\cam8439\Perforce\cam8439_ARCue4.26\CSCI715-ARCue\ARCue4.26\Plugins\Marketplace\AudioAnalyzer\Source\AudioAnalyzerTaglib\Thirdparty\utf8-cpp\core.h
+C:/Users/cam8439/Perforce/cam8439_ARCue4.26/CSCI715-ARCue/ARCue4.26/Plugins/Marketplace/AudioAnalyzer/Source/AudioAnalyzerTaglib/Thirdparty/Taglib/toolkit/tstringlist.cpp
+C:/Users/cam8439/Perforce/cam8439_ARCue4.26/CSCI715-ARCue/ARCue4.26/Plugins/Marketplace/AudioAnalyzer/Source/AudioAnalyzerTaglib/Thirdparty/Taglib/toolkit/tzlib.cpp

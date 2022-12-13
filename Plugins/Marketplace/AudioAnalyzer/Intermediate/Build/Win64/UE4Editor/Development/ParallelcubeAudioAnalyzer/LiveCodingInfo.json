@@ -1,0 +1,31 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.ParallelcubeAudioAnalyzer.cpp.obj": [
+			"AudioAnalyzerCapturer.cpp.obj",
+			"AudioAnalyzerCommon.cpp.obj",
+			"AudioAnalyzerCore.cpp.obj",
+			"AudioAnalyzerDecoder.cpp.obj",
+			"AudioAnalyzerDeviceInfo.cpp.obj",
+			"AudioAnalyzerExtractor.cpp.obj",
+			"AudioAnalyzerLoopback.cpp.obj",
+			"AudioAnalyzerManager.cpp.obj",
+			"AudioAnalyzerOVR.cpp.obj",
+			"AudioAnalyzerPlayer.cpp.obj",
+			"AudioAnalyzerPlayerUnitFile.cpp.obj",
+			"AudioAnalyzerPlugin.cpp.obj",
+			"AudioAnalyzerSoundWave.cpp.obj",
+			"AudioAnalyzerStream.cpp.obj",
+			"HistoryManager.cpp.obj",
+			"Texturizer.cpp.obj"
+		],
+		"Module.ParallelcubeAudioAnalyzer.gen.1_of_2.cpp.obj": [
+			"AudioAnalyzerManager.gen.cpp.obj"
+		],
+		"Module.ParallelcubeAudioAnalyzer.gen.2_of_2.cpp.obj": [
+			"AudioAnalyzerSoundWave.gen.cpp.obj",
+			"ParallelcubeAudioAnalyzer.init.gen.cpp.obj",
+			"Texturizer.gen.cpp.obj"
+		]
+	}
+}

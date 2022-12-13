@@ -1,0 +1,8 @@
+{
+	"BuildId": "14830424",
+	"Modules": 
+	{
+		"ParallelcubeAudioAnalyzer": "UE4Editor-ParallelcubeAudioAnalyzer-0003.dll",
+		"ParallelcubeTaglib": "UE4Editor-ParallelcubeTaglib-0003.dll"
+	}
+}

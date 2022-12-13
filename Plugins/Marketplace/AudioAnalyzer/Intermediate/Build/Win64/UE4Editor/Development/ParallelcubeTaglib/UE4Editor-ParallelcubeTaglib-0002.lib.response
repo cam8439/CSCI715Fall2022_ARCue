@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-ParallelcubeTaglib-0002.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\cam8439\Perforce\cam8439_ARCue4.26\CSCI715-ARCue\ARCue4.26\Intermediate\Build\Win64\ARCueEditor\Development\Engine\SharedPCH.Engine.RTTI.ShadowErrors.NoUndef.h.obj"
+"C:\Users\cam8439\Perforce\cam8439_ARCue4.26\CSCI715-ARCue\ARCue4.26\Plugins\Marketplace\AudioAnalyzer\Intermediate\Build\Win64\UE4Editor\Development\ParallelcubeTaglib\Module.ParallelcubeTaglib.cpp.obj"
+"C:\Users\cam8439\Perforce\cam8439_ARCue4.26\CSCI715-ARCue\ARCue4.26\Plugins\Marketplace\AudioAnalyzer\Intermediate\Build\Win64\UE4Editor\Development\ParallelcubeTaglib\Default.rc2.res"
+/OUT:"C:\Users\cam8439\Perforce\cam8439_ARCue4.26\CSCI715-ARCue\ARCue4.26\Plugins\Marketplace\AudioAnalyzer\Intermediate\Build\Win64\UE4Editor\Development\ParallelcubeTaglib\UE4Editor-ParallelcubeTaglib-0002.lib"
+/INCLUDE:IMPLEMENT_MODULE_ParallelcubeTaglib
