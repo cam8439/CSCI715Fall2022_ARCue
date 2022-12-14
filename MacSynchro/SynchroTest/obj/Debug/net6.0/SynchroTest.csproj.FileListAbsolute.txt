@@ -1,0 +1,47 @@
+C:/Users/jerry/Desktop/School/CSCI 715 Applications in Virtual Reality/SynchroTest/bin/Debug/net6.0/SynchroTest.exe
+C:/Users/jerry/Desktop/School/CSCI 715 Applications in Virtual Reality/SynchroTest/bin/Debug/net6.0/SynchroTest.deps.json
+C:/Users/jerry/Desktop/School/CSCI 715 Applications in Virtual Reality/SynchroTest/bin/Debug/net6.0/SynchroTest.runtimeconfig.json
+C:/Users/jerry/Desktop/School/CSCI 715 Applications in Virtual Reality/SynchroTest/bin/Debug/net6.0/SynchroTest.dll
+C:/Users/jerry/Desktop/School/CSCI 715 Applications in Virtual Reality/SynchroTest/bin/Debug/net6.0/SynchroTest.pdb
+C:/Users/jerry/Desktop/School/CSCI 715 Applications in Virtual Reality/SynchroTest/obj/Debug/net6.0/SynchroTest.csproj.AssemblyReference.cache
+C:/Users/jerry/Desktop/School/CSCI 715 Applications in Virtual Reality/SynchroTest/obj/Debug/net6.0/SynchroTest.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/jerry/Desktop/School/CSCI 715 Applications in Virtual Reality/SynchroTest/obj/Debug/net6.0/SynchroTest.AssemblyInfoInputs.cache
+C:/Users/jerry/Desktop/School/CSCI 715 Applications in Virtual Reality/SynchroTest/obj/Debug/net6.0/SynchroTest.AssemblyInfo.cs
+C:/Users/jerry/Desktop/School/CSCI 715 Applications in Virtual Reality/SynchroTest/obj/Debug/net6.0/SynchroTest.csproj.CoreCompileInputs.cache
+C:/Users/jerry/Desktop/School/CSCI 715 Applications in Virtual Reality/SynchroTest/obj/Debug/net6.0/SynchroTest.dll
+C:/Users/jerry/Desktop/School/CSCI 715 Applications in Virtual Reality/SynchroTest/obj/Debug/net6.0/refint/SynchroTest.dll
+C:/Users/jerry/Desktop/School/CSCI 715 Applications in Virtual Reality/SynchroTest/obj/Debug/net6.0/SynchroTest.pdb
+C:/Users/jerry/Desktop/School/CSCI 715 Applications in Virtual Reality/SynchroTest/obj/Debug/net6.0/SynchroTest.genruntimeconfig.cache
+C:/Users/jerry/Desktop/School/CSCI 715 Applications in Virtual Reality/SynchroTest/obj/Debug/net6.0/ref/SynchroTest.dll
+C:/Users/jerry/Desktop/School/CSCI 715 Applications in Virtual Reality/SynchroTest/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/jerry/Desktop/School/CSCI 715 Applications in Virtual Reality/SynchroTest/bin/Debug/net6.0/System.Drawing.Common.dll
+C:/Users/jerry/Desktop/School/CSCI 715 Applications in Virtual Reality/SynchroTest/bin/Debug/net6.0/System.Windows.Extensions.dll
+C:/Users/jerry/Desktop/School/CSCI 715 Applications in Virtual Reality/SynchroTest/bin/Debug/net6.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/jerry/Desktop/School/CSCI 715 Applications in Virtual Reality/SynchroTest/bin/Debug/net6.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+C:/Users/jerry/Desktop/School/CSCI 715 Applications in Virtual Reality/SynchroTest/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+C:/Users/jerry/Desktop/School/CSCI 715 Applications in Virtual Reality/SynchroTest/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+C:/Users/jerry/Desktop/School/CSCI 715 Applications in Virtual Reality/SynchroTest/obj/Debug/net6.0/SynchroTest.csproj.CopyComplete
+/Users/claire/Desktop/SynchroTest/obj/Debug/net6.0/SynchroTest.csproj.AssemblyReference.cache
+/Users/claire/Desktop/SynchroTest/obj/Debug/net6.0/SynchroTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/claire/Desktop/SynchroTest/obj/Debug/net6.0/SynchroTest.AssemblyInfoInputs.cache
+/Users/claire/Desktop/SynchroTest/obj/Debug/net6.0/SynchroTest.AssemblyInfo.cs
+/Users/claire/Desktop/SynchroTest/obj/Debug/net6.0/SynchroTest.csproj.CoreCompileInputs.cache
+/Users/claire/Desktop/SynchroTest/obj/Debug/net6.0/SynchroTest.dll
+/Users/claire/Desktop/SynchroTest/obj/Debug/net6.0/refint/SynchroTest.dll
+/Users/claire/Desktop/SynchroTest/obj/Debug/net6.0/SynchroTest.pdb
+/Users/claire/Desktop/SynchroTest/bin/Debug/net6.0/SynchroTest
+/Users/claire/Desktop/SynchroTest/bin/Debug/net6.0/SynchroTest.deps.json
+/Users/claire/Desktop/SynchroTest/bin/Debug/net6.0/SynchroTest.runtimeconfig.json
+/Users/claire/Desktop/SynchroTest/bin/Debug/net6.0/SynchroTest.dll
+/Users/claire/Desktop/SynchroTest/bin/Debug/net6.0/SynchroTest.pdb
+/Users/claire/Desktop/SynchroTest/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/claire/Desktop/SynchroTest/bin/Debug/net6.0/System.Drawing.Common.dll
+/Users/claire/Desktop/SynchroTest/bin/Debug/net6.0/System.Windows.Extensions.dll
+/Users/claire/Desktop/SynchroTest/bin/Debug/net6.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/claire/Desktop/SynchroTest/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/claire/Desktop/SynchroTest/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/claire/Desktop/SynchroTest/obj/Debug/net6.0/SynchroTest.csproj.CopyComplete
+/Users/claire/Desktop/SynchroTest/obj/Debug/net6.0/SynchroTest.genruntimeconfig.cache
+/Users/claire/Desktop/SynchroTest/obj/Debug/net6.0/ref/SynchroTest.dll
+/Users/claire/Desktop/SynchroTest/bin/Debug/net6.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+C:\Users\mssvr1\Downloads\SynchroTest\SynchroTest\obj\Debug\net6.0\SynchroTest.pdb

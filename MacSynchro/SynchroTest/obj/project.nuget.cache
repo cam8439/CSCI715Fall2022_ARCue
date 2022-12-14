@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "kn/1ePS0hw533sMc4JDF7Vjf+cyz4ahdJTHSBdbQP0ZQ5aSzqEJE3VThXX8UJv+84rFx44mhOMxnlb+1Zmgl1A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mssvr1\\Downloads\\SynchroTest\\SynchroTest\\MacSynchro.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mssvr1\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\mssvr1\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\mssvr1\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
